@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Generador de Codigo QR</h1>
+    <img alt="Archivo:Escudo Armada Argentina (fidedigno).svg " class="n3VNCb" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Escudo_Armada_Argentina_%28fidedigno%29.svg/1200px-Escudo_Armada_Argentina_%28fidedigno%29.svg.png" jsname="HiaYvf" jsaction="load:XAeZkd;" data-iml="11009.699999998702" style="width: 363.106px; height: 456px; margin: 0px;">
+</div>
+@if (ViewBag.QRCodeImage != null)
+        {
+            <img src="@String.Format("data:image/png;base64,{0}", Convert.ToBase64String(ViewBag.QRCodeImage))" width="100" height="100" />
+
+        }
