@@ -2,6 +2,11 @@
 <h1>Generador QR</h1>
 <li>Generador de Codigos QR apartir de un texto arbitrario para un proyecto MVC en .NET CORE</li>
 <li>Generar Items y crear enlaces embebido en un Codigo QR</li>
+<h3>Ejemplo</h3>
+<p align="center"> 
+ <img src="https://github.com/sebarigonatto/MvcMovie/blob/master/usoQR.gif" style="max-width: 100%">
+ </p>
+ <hr>
 <h3>Fue creado para los siguientes objetivos:</h3>
 <li>Analizar el Framework .Net Core en forma exploratoria</li>
 <li>Analizar complejidad de utilizar herramientas libres para implementar una solucion software no privativa</li>
@@ -12,6 +17,4 @@
 <li>VS Code</li>
 <li>GIT</li>
 <li>Ubuntu 18.04 (LTS)</li>
- <p align="center"> 
- <img src="https://github.com/sebarigonatto/MvcMovie/blob/master/usoQR.gif" style="max-width: 100%">
- </p>
+ 
