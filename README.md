@@ -12,7 +12,6 @@
 <li>VS Code</li>
 <li>GIT</li>
 <li>Ubuntu 18.04 (LTS)</li>
- <p align="center"> <img src="
-https://gifmaker.me/PlayGIFAnimation.php?folder=2020062209SFKpIKvU8rid0hHZhfn9TO&file=output_sUqQ0X.gife" width="350"/> <img src="your_relative_path_here_number_2_large_name" width="350"/> </p> 
-
-
+ <p align="center"> 
+ <img src="https://github.com/sebarigonatto/MvcMovie/blob/master/usoQR.gif" style="max-width: 100%">
+ </p>
